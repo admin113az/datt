@@ -1,2 +1,0 @@
-# hdmod
-#HdModforIOS
