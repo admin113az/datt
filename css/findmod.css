@@ -2,6 +2,14 @@
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+.luuy h3 a {
+    border: 2px solid rgb(236, 87, 17);
+    font-size: 18px;
+    padding: 8px;
+    border-radius: 20px;
+    background: #46c909;
+}
 .search-bar {
   display: flex;
   align-items: center;
